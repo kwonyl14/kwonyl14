@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=YounglinKwon&fontSize=50)
 
-<center>
 ### Hi there 👋
 Welcome to my github.
 I'm backend developer. 
@@ -12,4 +11,3 @@ I'm backend developer.
 
 ### Me
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqk8657)](https://solved.ac/sqk8657)
-</center>
