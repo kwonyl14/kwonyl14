@@ -8,7 +8,7 @@ I'm backend developer.
 - 삼성청년SW아카데미 5기 (2021.01.05 ~ 2021.12.21) 
 
 <div align='center'>
-### Tech Stack 💻
+<h3>Tech Stack 💻</h3>
 
 ###  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>  
 
@@ -17,7 +17,7 @@ I'm backend developer.
 </div>
 
 <div align='center'>
-### Algorithm
+<h3>Algorithm</h3>
 </div>  
 <div align='center'>
  
